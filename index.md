@@ -1,6 +1,5 @@
 <html>
     <head> 
-        <title> Curriculum Vitae </title>
         <meta charset= "utf-8">   
     </head>
     <body>
