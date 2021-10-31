@@ -1,37 +1,61 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/SORAYAFADILI/SORAYA-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SORAYAFADILI/SORAYA-/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<html>
+    <head> 
+        <title> Curriculum Vitae </title>
+        <meta charset= "utf-8">   
+    </head>
+    <body>
+        <h1> mon Curriculum Vitae</h1>
+         <p> <h2> <strong> FADILI Ithar Soraya  </strong>  </h2>
+          19ans <br>
+          fadili.itharsoraya@gmail.com
+        </p>  
+        <h1> Ingenieur d'etat del'informatique de l'Ecole Mohammadia des ingenieurs </h1>
+        <aside>
+        <h2> Objectif professionnel : </h2>
+        <p> Ingénieur informatique dynamique et motivé et Qualités: Polyvalente, persévérante, dynamique,
+            dotée d'esprit d'analyse et de synthèse ayant le sens d’engagement et d’esprit d’équipe je 
+            maîtrise également la construction et le lancement de nouveaux sites web. Je possède d’excellentes connaissances en codage.
+             À la recherche d’une nouvelle opportunité, je suis disponible immédiatement.</p>
+        </aside>
+        <section>
+        <h2> Formation et Diplôme :</h2>  
+        <ol>
+            <li> <strong > 2021-2024:</strong> Ecole mohammadia d'ingenieurs , genie informatique </li>
+            <li> <strong > 2019-2021:</strong> 2ans de classes preparatoires , MPSI/MP </li>
+            <li> <strong > 2019:</strong> baccalaureat science maths A , mention Tres Bien </li> 
+        </ol>
+        </section> 
+        <section> 
+        <h2>Compétences Techniques : </h2> 
+        <ul>
+            <li> <strong> Langages de programmation: </strong> <em> python , JAVA, Language C , Javascript , react , nodeJS </em> </li>
+            <li><strong> Bases de donnees : </strong><em> Oracle , MySQL, SQL Server </em></li> 
+            <li> <strong> Bureautique :</strong> <em> MS office (word, Excel, Powerpoint) </em></li>
+        </ul>
+        </section>
+        <section>
+        <h2> Compétences Linguistiques :</h2>
+        <ol>
+            <li> <em>Arabe :</em> langue maternelle </li>
+            <li> <em> Francais :</em> bonne maitrise </li>
+            <li> <em> Anglais : </em> bonne maitrise </li>
+        </ol>
+        </section>
+        <section>
+        <h2> Autres: </h2>
+        <ul>
+            <li> <strong >loisirs : </strong> cuisine , musique. </li>
+            <li> <strong >sport :</strong> basket-ball , volley-ball.</li>
+        </ul>
+        <br>
+        <br>
+        </section>
+        <footer> 
+        <p>
+             Edite par : Fadili Ithar Soraya  <br>
+             Dernière Mise à jour : 27/10/2021<br>
+             -No Copiright- 
+        </p>
+        </footer>
+    </body>
+</html>
